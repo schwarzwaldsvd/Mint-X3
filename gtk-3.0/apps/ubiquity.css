@@ -1,0 +1,11 @@
+
+.ubiquity-menubar {
+	background-color: #3F3F3F;
+	color: #EEEEEE;
+	
+	/* tested - unknown */
+	/*background-color: #D6D6D6;
+	color: #000000;*/
+
+	/* text-shadow: 1px 1px alpha (#000000, 0.8); */
+}
