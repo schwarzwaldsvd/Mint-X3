@@ -40,10 +40,10 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.381855"
-     inkscape:cx="-2.7826398"
+     inkscape:cx="2.3777904"
      inkscape:cy="8.9622347"
-     inkscape:window-x="2503"
-     inkscape:window-y="182"
+     inkscape:window-x="243"
+     inkscape:window-y="135"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:snap-bbox="true"
@@ -181,7 +181,38 @@
        id="linearGradient4059"
        xlink:href="#linearGradient4002"
        inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.99538562,0,0,1.1485219,0.03691552,-1.5600055)"
+       y2="4.4941015"
+       x2="8"
+       y1="16.462322"
+       x1="8"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4059-5"
+       xlink:href="#linearGradient4002-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4002-3">
+      <stop
+         style="stop-color:#3b83cd;stop-opacity:0.88627452;"
+         offset="0"
+         id="stop4004-2" />
+      <stop
+         style="stop-color:#259ecd;stop-opacity:0.19607843;"
+         offset="1"
+         id="stop4006-4" />
+    </linearGradient>
   </defs>
+  <rect
+     width="14.930784"
+     height="14.930784"
+     rx="1.9907713"
+     ry="2.2970438"
+     x="0.53460765"
+     y="3.0346076"
+     id="rect3000-4"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06921566;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      width="14.930784"
      height="14.930784"

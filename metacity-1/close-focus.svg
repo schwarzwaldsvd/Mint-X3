@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1015"
-     inkscape:window-height="739"
+     inkscape:window-width="959"
+     inkscape:window-height="1030"
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.47619"
-     inkscape:cx="3.9048749"
+     inkscape:cx="10.221398"
      inkscape:cy="10.72746"
-     inkscape:window-x="2385"
-     inkscape:window-y="215"
-     inkscape:window-maximized="0"
+     inkscape:window-x="960"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -55,11 +55,11 @@
     <linearGradient
        id="linearGradient4002">
       <stop
-         style="stop-color:#ff0000;stop-opacity:0.65486723;"
+         style="stop-color:#d0362f;stop-opacity:0.83137256;"
          offset="0"
          id="stop4004" />
       <stop
-         style="stop-color:#ff0000;stop-opacity:0.19469027;"
+         style="stop-color:#d0362f;stop-opacity:0.17647059;"
          offset="1"
          id="stop4006" />
     </linearGradient>
@@ -229,7 +229,38 @@
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad"
        gradientTransform="matrix(0.99538562,0,0,1.1485219,0.03691508,-1.5595475)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4002-6"
+       id="linearGradient4008-8"
+       x1="8"
+       y1="16.462322"
+       x2="8"
+       y2="4.4941015"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.99538562,0,0,1.1485219,0.03691508,-1.5595475)" />
+    <linearGradient
+       id="linearGradient4002-6">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.65486723;"
+         offset="0"
+         id="stop4004-0" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.19469027;"
+         offset="1"
+         id="stop4006-0" />
+    </linearGradient>
   </defs>
+  <rect
+     width="14.930784"
+     height="14.930784"
+     rx="1.9907712"
+     ry="2.2970438"
+     x="0.53460789"
+     y="3.0350659"
+     id="rect3000-2"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06921566;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      width="14.930784"
      height="14.930784"
