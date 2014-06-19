@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="21"
@@ -39,10 +40,10 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.47619"
-     inkscape:cx="-0.04560715"
+     inkscape:cx="12.915119"
      inkscape:cy="10.72746"
-     inkscape:window-x="2368"
-     inkscape:window-y="173"
+     inkscape:window-x="2089"
+     inkscape:window-y="112"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:snap-bbox="true">
@@ -68,14 +69,33 @@
          offset="1"
          id="stop9" />
     </linearGradient>
+    <linearGradient
+       y2="10"
+       x2="15.008475"
+       y1="10"
+       x1="1.0084743"
+       gradientTransform="matrix(0.25881905,0.96592583,-0.96592583,0.25881905,15.584169,0.17670239)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3028"
+       xlink:href="#linearGradient3760"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3760">
+      <stop
+         style="stop-color:#9ca2a9;stop-opacity:0.11764706;"
+         offset="0"
+         id="stop3762" />
+      <stop
+         style="stop-color:#90959b;stop-opacity:0.19607843;"
+         offset="1"
+         id="stop3764" />
+    </linearGradient>
   </defs>
-  <rect
-     y="11"
-     x="3.5"
-     height="2"
-     width="9"
-     id="rect3757"
-     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 9.8087936,17.762324 A 7.0000003,7.0000006 0 0 1 6.1853266,4.2393627 7.0000003,7.0000006 0 1 1 9.8087936,17.762324 z"
+     id="path2987-9"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-opacity:1;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none" />
   <rect
      style="fill:#3372cb;fill-opacity:1;stroke:none"
      id="rect2987"
