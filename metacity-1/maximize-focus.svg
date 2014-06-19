@@ -40,7 +40,7 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.381855"
-     inkscape:cx="2.3777904"
+     inkscape:cx="-2.7826398"
      inkscape:cy="8.9622347"
      inkscape:window-x="2503"
      inkscape:window-y="182"
@@ -171,7 +171,7 @@
          id="stop4006" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(4.9702148e-7,-4.5791962e-4)"
+       gradientTransform="matrix(0.99538562,0,0,1.1485219,0.03691552,-1.5600055)"
        y2="4.4941015"
        x2="8"
        y1="16.462322"
@@ -183,14 +183,14 @@
        inkscape:collect="always" />
   </defs>
   <rect
-     width="15"
-     height="13"
-     rx="2"
-     ry="2"
-     x="0.49999979"
-     y="3.9999998"
+     width="14.930784"
+     height="14.930784"
+     rx="1.9907713"
+     ry="2.2970438"
+     x="0.53460765"
+     y="3.0346076"
      id="rect3000"
-     style="opacity:0.34328362;color:#000000;fill:url(#linearGradient4059);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="opacity:0.34328362;color:#000000;fill:url(#linearGradient4059);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.06921566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      style="fill:#333333;fill-opacity:1;stroke:none"
      d="m 7.1111102,6.9444446 1.7777775,0 0,2.755555 3.1111123,0 0,1.6000004 -3.1111123,0 0,2.755555 -1.7777775,0 0,-2.755555 -3.1111106,0 0,-1.6000004 3.1111106,0 0,-2.755555"

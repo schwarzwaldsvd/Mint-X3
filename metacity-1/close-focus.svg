@@ -40,7 +40,7 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.47619"
-     inkscape:cx="9.0436462"
+     inkscape:cx="3.9048749"
      inkscape:cy="10.72746"
      inkscape:window-x="2385"
      inkscape:window-y="215"
@@ -213,7 +213,7 @@
        xlink:href="#linearGradient3788"
        id="linearGradient3223"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1333334,0,0,0.99999997,-1.0666667,-0.4995419)"
+       gradientTransform="matrix(1.1314994,0,0,1.057488,-1.0519947,-1.5768256)"
        x1="8.1313992"
        y1="19.049677"
        x2="8.1313992"
@@ -227,17 +227,18 @@
        x2="8"
        y2="4.4941015"
        gradientUnits="userSpaceOnUse"
-       spreadMethod="pad" />
+       spreadMethod="pad"
+       gradientTransform="matrix(0.99538562,0,0,1.1485219,0.03691508,-1.5595475)" />
   </defs>
   <rect
-     width="15"
-     height="13"
-     rx="2"
-     ry="2"
-     x="0.5"
-     y="4.0004578"
+     width="14.930784"
+     height="14.930784"
+     rx="1.9907712"
+     ry="2.2970438"
+     x="0.53460789"
+     y="3.0350659"
      id="rect3000"
-     style="opacity:0.34328357999999998;color:#000000;fill:url(#linearGradient4008);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="opacity:0.34328362;color:#000000;fill:url(#linearGradient4008);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.06921566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 7.9702,9.0564581 2.5298,-2.556 1.5,1.5 -2.5986,2.4869999 2.5986,2.513 -1.5,1.5 -2.5128,-2.599 -2.4872,2.599 -1.5,-1.5 2.5858,-2.5 L 4,8.0004581 l 1.5,-1.5 2.4702,2.556 z"
      id="path13"
@@ -272,16 +273,7 @@
          x="531"
          y="299"
          id="rect38702" /></flowRegion><flowPara
-       id="flowPara38704" /></flowRoot>  <rect
-     width="17"
-     height="15"
-     rx="3"
-     ry="2.9999998"
-     x="-0.5"
-     y="3.000458"
-     id="rect3000-5"
-     style="opacity:0.6;color:#000000;fill:none;stroke:url(#linearGradient3223);stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <text
+       id="flowPara38704" /></flowRoot>  <text
      x="-751.84784"
      y="10.215563"
      id="text4087-2-6-5-1"
