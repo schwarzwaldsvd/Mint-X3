@@ -1,0 +1,17 @@
+inkscape --export-png=checkbox-checked.png --export-dpi=89 --export-background-opacity=0 --without-gui checkbox-checked.svg
+
+inkscape --export-png=checkbox-checked@2.png --export-dpi=180 --export-background-opacity=0 --without-gui checkbox-checked.svg
+
+ inkscape --export-png=checkbox-checked-insensitive.png --export-dpi=89 --export-background-opacity=0 --without-gui checkbox-checked-insensitive.svg
+
+ inkscape --export-png=checkbox-checked-insensitive@2.png --export-dpi=180 --export-background-opacity=0 --without-gui checkbox-checked-insensitive.svg
+
+inkscape --export-png=checkbox-mixed.png --export-dpi=89 --export-background-opacity=0 --without-gui checkbox-mixed.svg
+
+inkscape --export-png=checkbox-mixed@2.png --export-dpi=180 --export-background-opacity=0 --without-gui checkbox-mixed.svg
+
+inkscape --export-png=radio-mixed.png --export-dpi=89 --export-background-opacity=0 --without-gui radio-mixed.svg
+
+inkscape --export-png=radio-mixed@2.png --export-dpi=180 --export-background-opacity=0 --without-gui radio-mixed.svg
+
+

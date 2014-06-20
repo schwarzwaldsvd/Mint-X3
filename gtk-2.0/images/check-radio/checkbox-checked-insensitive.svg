@@ -146,6 +146,10 @@
        x2="8"
        y2="1048.3622"
        gradientUnits="userSpaceOnUse" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3008"
+       effect="spiro" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -155,16 +159,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="44.8"
-     inkscape:cx="6.7133205"
-     inkscape:cy="6.9521487"
+     inkscape:cx="6.7579634"
+     inkscape:cy="7.8450058"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
      inkscape:window-width="1401"
      inkscape:window-height="908"
-     inkscape:window-x="220"
-     inkscape:window-y="74"
+     inkscape:window-x="2437"
+     inkscape:window-y="129"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -183,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,17 +241,13 @@
        y="1038.8622"
        rx="0.94457"
        ry="1.0090158" />
-    <rect
-       style="fill:url(#linearGradient4030);fill-opacity:1;stroke:none;opacity:0.1"
-       id="rect4022"
-       width="8"
-       height="7.9999828"
-       x="4"
-       y="1040.3622" />
     <path
-       style="fill:#b2b2b2;fill-opacity:1;stroke:none"
-       d="M 5 5 L 5 7 L 6 7 L 6 9 L 5 9 L 5 11 L 7 11 L 7 10 L 9 10 L 9 11 L 11 11 L 11 9 L 10 9 L 10 7 L 11 7 L 11 5 L 9 5 L 9 6 L 7 6 L 7 5 L 5 5 z "
-       id="rect3812"
-       transform="translate(0,1036.3622)" />
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 4.1037997,1044.3016 2.682912,3.9568 7.1094883,-10.7924"
+       inkscape:path-effect="#path-effect3008"
+       id="path5880"
+       d="m 4.1037997,1044.3016 2.682912,3.9568 7.1094883,-10.7924"
+       style="fill:none;stroke:#969696;stroke-width:2.2075994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

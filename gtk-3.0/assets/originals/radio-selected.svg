@@ -111,20 +111,29 @@
        x2="7.5000005"
        y2="8"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4391"
+       id="linearGradient4397"
+       x1="8"
+       y1="1.0000643"
+       x2="8"
+       y2="4.5000558"
+       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3776"
-       id="radialGradient3782"
+       id="radialGradient3784"
        cx="8"
        cy="8"
        fx="8"
        fy="8"
-       r="7.5384613"
+       r="7.5384612"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3776-8"
-       id="radialGradient3782-0"
+       xlink:href="#linearGradient3776-3"
+       id="radialGradient3784-9"
        cx="8"
        cy="8"
        fx="8"
@@ -132,15 +141,15 @@
        r="7.5384612"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       id="linearGradient3776-8">
+       id="linearGradient3776-3">
       <stop
          style="stop-color:#3b83cd;stop-opacity:0.07843138;"
          offset="0"
-         id="stop3778-9" />
+         id="stop3778-6" />
       <stop
          style="stop-color:#3b83cd;stop-opacity:0.37254903;"
          offset="1"
-         id="stop3780-9" />
+         id="stop3780-7" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -151,16 +160,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="8.0889807"
-     inkscape:cy="9.837717"
+     inkscape:cx="8.9417494"
+     inkscape:cy="7.623733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1486"
+     inkscape:window-width="1199"
      inkscape:window-height="848"
-     inkscape:window-x="2203"
-     inkscape:window-y="83"
+     inkscape:window-x="2590"
+     inkscape:window-y="93"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -200,7 +209,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path4328-8"
+       id="path4328-7"
        sodipodi:cx="8"
        sodipodi:cy="8"
        sodipodi:rx="7"
@@ -209,7 +218,7 @@
        transform="matrix(0.92857142,0,0,0.92857245,0.57142866,1036.9336)" />
     <path
        sodipodi:type="arc"
-       style="fill:url(#radialGradient3782);fill-opacity:1;stroke:#666666;stroke-width:1.07692265999999992;stroke-opacity:1"
+       style="fill:url(#radialGradient3784);fill-opacity:1;stroke:#666666;stroke-width:1.07692265999999992;stroke-opacity:1"
        id="path4328"
        sodipodi:cx="8"
        sodipodi:cy="8"
