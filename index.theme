@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-X
+Name=Mint-X3
 Comment=A Linux Mint theme with brushed metal in mintMenu, based on Clearlooks Revamp, Elementary and Faenza.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-X
-MetacityTheme=Mint-X
-IconTheme=Mint-X
+GtkTheme=Mint-X3
+MetacityTheme=Mint-X3
+IconTheme=Mint-X3
 CursorTheme=default
