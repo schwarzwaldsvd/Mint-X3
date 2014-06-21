@@ -21,22 +21,22 @@
     <linearGradient
        id="linearGradient3830">
       <stop
-         style="stop-color:#b4b4b4;stop-opacity:0.31764707;"
+         style="stop-color:#ffffff;stop-opacity:0.30000001;"
          offset="0"
          id="stop3832" />
       <stop
-         style="stop-color:#a6a6a6;stop-opacity:0.45882353;"
+         style="stop-color:#a6a6a6;stop-opacity:0;"
          offset="1"
          id="stop3834" />
     </linearGradient>
     <linearGradient
        id="linearGradient3826">
       <stop
-         style="stop-color:#969696;stop-opacity:0.36470589;"
+         style="stop-color:#d7d7d7;stop-opacity:1;"
          offset="0"
          id="stop3829" />
       <stop
-         style="stop-color:#969696;stop-opacity:1;"
+         style="stop-color:#c1c1c1;stop-opacity:1;"
          offset="1"
          id="stop3831" />
     </linearGradient>
@@ -398,15 +398,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.075517"
-     inkscape:cx="26.14468"
-     inkscape:cy="3.4689168"
+     inkscape:cx="28.033669"
+     inkscape:cy="6.1222255"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1480"
      inkscape:window-height="906"
-     inkscape:window-x="127"
-     inkscape:window-y="127"
+     inkscape:window-x="209"
+     inkscape:window-y="122"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      fit-margin-top="0"

@@ -1466,28 +1466,28 @@ GtkProgressBar {
     border-radius: 20px;
     background-color: transparent;
     background-image: linear-gradient(to right,
-                            shade(@theme_bg_color, 1.12),
-                            shade(@theme_bg_color, 0.95));
+                            shade(@scrollbar_color, 1.12),
+                            shade(@scrollbar_color, 0.95));
     box-shadow: 1px 0 alpha(white, 0.5);
 }
 
 .scrollbar.slider.vertical:hover {
     background-image: linear-gradient(to right,
-                            shade(@theme_bg_color, 1.0),
-                            shade(@theme_bg_color, 0.88));
+                            shade(@scrollbar_color, 1.0),
+                            shade(@scrollbar_color, 0.88));
     box-shadow: 1px 0 alpha(white, 0.3);
 }
 
 .scrollbar.slider.horizontal {
     background-image: linear-gradient(to bottom,
-                            shade(@theme_bg_color, 1.12),
-                            shade(@theme_bg_color, 0.95));
+                            shade(@scrollbar_color, 1.12),
+                            shade(@scrollbar_color, 0.95));
 }
 
 .scrollbar.slider.horizontal:hover {
     background-image: linear-gradient(to bottom,
-                            shade(@theme_bg_color, 1.0),
-                            shade(@theme_bg_color, 0.88));
+                            shade(@scrollbar_color, 1.0),
+                            shade(@scrollbar_color, 0.88));
         box-shadow: 1px 0 alpha(white, 0.3);
 }
 
