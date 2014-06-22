@@ -40,10 +40,10 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="22.47619"
-     inkscape:cx="3.6953707"
+     inkscape:cx="2.4954672"
      inkscape:cy="10.72746"
-     inkscape:window-x="2085"
-     inkscape:window-y="96"
+     inkscape:window-x="1937"
+     inkscape:window-y="126"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -55,11 +55,11 @@
     <linearGradient
        id="linearGradient4002">
       <stop
-         style="stop-color:#d0362f;stop-opacity:1;"
+         style="stop-color:#b32f29;stop-opacity:1;"
          offset="0"
          id="stop4004" />
       <stop
-         style="stop-color:#d0362f;stop-opacity:0.81415927;"
+         style="stop-color:#b32f29;stop-opacity:1;"
          offset="1"
          id="stop4006" />
     </linearGradient>
@@ -295,7 +295,7 @@
   <path
      d="m 7.9702,9.0564581 2.5298,-2.556 1.5,1.5 -2.5986,2.4869999 2.5986,2.513 -1.5,1.5 -2.5128,-2.599 -2.4872,2.599 -1.5,-1.5 2.5858,-2.5 L 4,8.0004581 l 1.5,-1.5 2.4702,2.556 z"
      id="path13"
-     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd"
+     style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd"
      inkscape:connector-curvature="0" />
   <text
      x="336.90759"

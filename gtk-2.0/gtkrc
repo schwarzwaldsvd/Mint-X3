@@ -84,8 +84,8 @@ style "default" {
     GtkTreeView::vertical-separator	= 2
     
     GtkWidget::new-tooltip-style = 1
-    #GtkWidget::tooltip-alpha = 235
-    #GtkWidget::tooltip-radius = 3
+    # GtkWidget::tooltip-alpha = 235
+    GtkWidget::tooltip-radius = 4
     GtkWidget::focus-line-width	= 1
     GtkWidget::focus-padding = 0 # Keeping this at 0 prevents the Firefox tabs from jumping a few pixels when you create a new tab. Set the value locally if needed.
     
