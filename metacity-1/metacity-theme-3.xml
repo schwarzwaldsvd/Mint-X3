@@ -10,9 +10,13 @@
 
 <!-- ::: CONSTANTS ::: -->
 
-<constant name="C_border_focused" value="shade/gtk:bg[NORMAL]/0.7" />
+<!-- <constant name="C_border_focused" value="shade/gtk:bg[NORMAL]/0.7" /> -->
+<constant name="C_border_focused" value="shade/gtk:bg[NORMAL]/0.6" />
 <constant name="C_border_unfocused" value="blend/#000000/gtk:bg[NORMAL]/0.8" />
-<constant name="C_title_focused" value="shade/gtk:bg[NORMAL]/0.50"/>
+<!-- <constant name="C_title_focused" value="shade/gtk:bg[NORMAL]/0.50"/> -->
+<constant name="C_title_focused" value="shade/gtk:bg[NORMAL]/0.10"/>
+<!-- <constant name="C_title_focused" value="#32465A"/> -->
+
 <constant name="C_title_focused_highlight" value="shade/gtk:bg[NORMAL]/1.30"/>
 <constant name="C_title_unfocused" value="shade/gtk:bg[NORMAL]/0.80"/>
 <constant name="C_titlebar_bg" value="gtk:bg[NORMAL]"/>
@@ -171,6 +175,8 @@
 	<gradient type="vertical" x="0" y="0" width="width" height="height">
 		<color value="shade/gtk:bg[NORMAL]/1.08"/>
 		<color value="gtk:bg[NORMAL]"/>
+        <!-- <color value="#134B84"/>
+        <color value="#134B84"/> -->
 	</gradient>
 </draw_ops>
 

@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -17,39 +16,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="focus.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3787"
-       id="linearGradient3795"
-       x1="8"
-       y1="1050.3622"
-       x2="9"
-       y2="1038.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2.9802322e-8,1.7412615e-5)" />
-    <linearGradient
-       id="linearGradient3787">
-      <stop
-         style="stop-color:#3b83cd;stop-opacity:0.37168142;"
-         offset="0"
-         id="stop3791" />
-      <stop
-         style="stop-color:#3b83cd;stop-opacity:0.07964602;"
-         offset="1"
-         id="stop3793" />
-    </linearGradient>
-    <linearGradient
-       y2="1038.3622"
-       x2="9"
-       y1="1050.3622"
-       x1="8"
-       gradientTransform="matrix(1.1428547,0,0,1.1428547,-1.1428549,-149.19196)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3039"
-       xlink:href="#linearGradient3787"
-       inkscape:collect="always" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -66,8 +33,8 @@
      inkscape:snap-bbox="true"
      inkscape:window-width="1099"
      inkscape:window-height="648"
-     inkscape:window-x="2208"
-     inkscape:window-y="262"
+     inkscape:window-x="443"
+     inkscape:window-y="93"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -85,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,13 +62,13 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:url(#linearGradient3039);fill-opacity:1;stroke:#666666;stroke-width:1.14285457px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3755-1"
-       width="14.857111"
-       height="14.857111"
-       x="0.57142729"
-       y="1036.9336"
-       rx="2.2857094"
-       ry="2.2857094" />
+       style="fill:none;stroke:#212121;stroke-width:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-linejoin:miter"
+       id="rect3755"
+       width="15"
+       height="15.000017"
+       x="0.5"
+       y="1036.8622"
+       rx="3"
+       ry="3" />
   </g>
 </svg>
