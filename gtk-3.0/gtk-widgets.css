@@ -1925,9 +1925,28 @@ GtkTreeView .entry {
     border-width: 1px;
 }
 
-GtkTreeView row:nth-child(even),
+/*GtkTreeView row:nth-child(even),
 GtkTreeView row:nth-child(odd) {
     background-color: @theme_base_color;
+}*/
+
+GtkTreeView row:nth-child(odd),
+GtkTreeView row:nth-child(odd):hover {
+    background-color: shade(@theme_base_color, 0.96);
+    text-shadow: none;
+}
+
+/* Creates artifacts when scrolling */
+/*GtkTreeView row:nth-child(odd):hover, 
+GtkTreeView row:nth-child(even):hover {
+    background-color: shade(@theme_selected_bg_color, 1.80);
+    text-shadow: none;
+}*/
+
+GtkTreeView row:nth-child(even),
+GtkTreeView row:nth-child(even):hover  {    
+    background-color: shade(@theme_base_color, 1.00);
+    text-shadow: none;
 }
 
 /************
