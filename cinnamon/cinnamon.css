@@ -1862,8 +1862,10 @@ StScrollBar StButton#vhandle:hover
     background-gradient-direction: vertical;
     /*background-gradient-start: rgba(220,220,220,0.5);
     background-gradient-end: rgba(70,70,70,0.5);*/
-    background-gradient-start: rgba(102,139,194,0.9);
-    background-gradient-end: rgba(43,81,154,0.9);
+    /*background-gradient-start: rgba(102,139,194,0.9);
+    background-gradient-end: rgba(43,81,154,0.9);  */
+    background-gradient-start: rgba(76,138,202,0.9);
+    background-gradient-end: rgba(27,78,163,0.9);
 
     box-shadow: inset 0px 0px 0px 1px rgba(100,100,100,0.5);
     border-radius: 4px 4px 0px 0px;
@@ -1884,6 +1886,8 @@ StScrollBar StButton#vhandle:hover
     background-gradient-direction: vertical;
 	background-gradient-start: rgba(102,139,194,0.3);
     background-gradient-end: rgba(43,81,154,0.3);
+    /*background-gradient-start: rgba(14,96,184,0.3);
+    background-gradient-end: rgba(14,65,120,0.3);*/
 
     /*box-shadow: inset 0px 0px 0px 1px rgba(170,170,170,0.5);*/
     text-shadow: 0 0 9px #f0f0f0;
