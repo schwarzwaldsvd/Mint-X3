@@ -39,11 +39,11 @@
      inkscape:window-height="865"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="20.953786"
-     inkscape:cx="-5.7497413"
-     inkscape:cy="12.151332"
-     inkscape:window-x="2204"
-     inkscape:window-y="109"
+     inkscape:zoom="27.639192"
+     inkscape:cx="14.488634"
+     inkscape:cy="12.151627"
+     inkscape:window-x="89"
+     inkscape:window-y="86"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -607,17 +607,17 @@
      sodipodi:rx="250"
      sodipodi:ry="250"
      sodipodi:type="arc"
-     style="fill:#77ae00;fill-opacity:1;fill-rule:evenodd;stroke:#619200;stroke-width:19.95944976999999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
+     style="fill:#6fa000;fill-opacity:1;fill-rule:evenodd;stroke:#5b8800;stroke-width:19.95944976999999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
      transform="matrix(0.02981002,0,0,0.02981002,-3.4555634,-6.1788556)" />
   <path
      d="m 6.8001073,14.706249 0,-2.978346 -3.0063597,0 0,-2.4558068 3.0063597,0 0,-2.9783471 2.3904428,0 0,2.9783471 3.0156979,0 0,2.4558068 -3.0156979,0 0,2.978346 -2.3904428,0"
      id="text2705"
      sodipodi:nodetypes="ccccccccccccc"
-     style="font-size:660.22442626999998083px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.73529412000000005;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Arial"
+     style="font-size:660.22442626999998083px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.73529412000000005;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Arial"
      inkscape:connector-curvature="0" />
   <path
      d="m 6.9997327,14.489383 0,-2.965766 -2.9891185,0 0,-2.0472352 2.9891185,0 0,-2.9657655 1.9927454,0 0,2.9657655 2.9969029,0 0,2.0472352 -2.9969029,0 0,2.965766 -1.9927454,0"
      id="text2713"
-     style="font-size:550.38305663999994977px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+     style="font-size:550.38305663999994977px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ececec;fill-opacity:1;stroke:none;font-family:Arial"
      inkscape:connector-curvature="0" />
 </svg>
