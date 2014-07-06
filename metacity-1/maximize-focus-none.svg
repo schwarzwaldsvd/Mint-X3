@@ -40,10 +40,10 @@
      id="namedview15"
      showgrid="true"
      inkscape:zoom="18.379174"
-     inkscape:cx="-5.7335753"
+     inkscape:cx="-5.5969018"
      inkscape:cy="10.72762"
-     inkscape:window-x="2350"
-     inkscape:window-y="190"
+     inkscape:window-x="2468"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -55,11 +55,11 @@
     <linearGradient
        id="linearGradient3890">
       <stop
-         style="stop-color:#969696;stop-opacity:1;"
+         style="stop-color:#aaaaaa;stop-opacity:1;"
          offset="0"
          id="stop3892" />
       <stop
-         style="stop-color:#828282;stop-opacity:1;"
+         style="stop-color:#a5a5a5;stop-opacity:1;"
          offset="1"
          id="stop3894" />
     </linearGradient>
@@ -694,7 +694,7 @@
      sodipodi:rx="250"
      sodipodi:ry="250"
      sodipodi:type="arc"
-     style="fill:url(#radialGradient3896);fill-opacity:1;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:19.95944976999999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
+     style="fill:url(#radialGradient3896);fill-opacity:1;fill-rule:evenodd;stroke:#919191;stroke-width:19.95944976999999909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
      transform="matrix(0.02981002,0,0,0.02981002,-3.4555627,-6.1788551)" />
   <path
      inkscape:connector-curvature="0"
